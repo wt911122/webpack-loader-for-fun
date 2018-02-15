@@ -1,0 +1,14 @@
+{
+  "name": "webpack-loader-for-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.14.1"
+  }
+}
